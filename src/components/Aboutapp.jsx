@@ -9,7 +9,7 @@ const AboutApp = () => {
       <Row className="justify-content-md-center mt-4">
         <Col md="8">
           <div className="border p-4">
-            <h1 className="mb-4">Welcome to Blend With Nature App</h1>
+            <h1 className="mb-4">Welcome to Vibrant Vibes App</h1>
             <p>
               Welcome to the dress color suggestion app. Follow the instructions below
               to get started.
